@@ -1,5 +1,5 @@
 # hello-world-
 For Bootcamp BU - practicing GitHub flow 
 
-my edits in my branch 
+Hi, I am looking forward to betting a masters degree in Data Science. 
 
